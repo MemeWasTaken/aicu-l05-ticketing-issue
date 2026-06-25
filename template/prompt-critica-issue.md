@@ -1,6 +1,5 @@
 # Prompt Critica Issue
 
-Usa questo prompt solo dopo aver scritto una prima versione della issue.
 
 ```txt
 Leggi questa issue.
